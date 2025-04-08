@@ -1,1 +1,1 @@
-# white_cane_detection
+# cane_detection
